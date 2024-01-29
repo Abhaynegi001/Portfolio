@@ -38,7 +38,7 @@ function Hero() {
         </div>
         <div className="bg-gradient-to-r from-[#141631] to-[#424A71] text-white p-5 md:flex md:flex-row-reverse m-3 rounded-3xl">
           <div className="mb-3 md:mx-7 md:pt-20">
-            <img  src="./images/me.jpg" className="size-40 rounded-full md:size-80"  alt="code red"/>
+            <img  src="portfolio\src\images\me.jpg" className="size-40 rounded-full md:size-80"  alt="code red"/>
           </div>
           <div className="md:w-[35rem]">
             <button className="font-bold  text-2xl border-2 border-white p-2 md:text-3xl md:my-5">
