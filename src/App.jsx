@@ -17,25 +17,25 @@ function App() {
         <ProjectCard
             title="Calculater"
             description="calculater is made using Html , css and javascript and That is my self update project. I added a history Features and more on."
-            images="portfolio\src\Images\calculater.jpg"
+            images="src/Images/calculater.jpg"
           />
         </a>
         <a href="https://abhaynegi001.github.io/stone_paper_scissors/" target="_blank">
         <ProjectCard
             title="Stone,Paper & Scissors"
             description="Stone,Paper and Scissor game is made up on Html,Css and javascript and it has a new features"
-            images="portfolio\src\Images\rock-paper-scissors.jpg"
+            images="src/Images/rock-paper-scissors.jpg"
           />
         </a>
           <ProjectCard
             title="calculater"
             description="calculater is made using Html , css and javascript"
-            images="portfolio\src\Images\calculater.jpg"
+            images="src/Images\calculater.jpg"
           />
           <ProjectCard
             title="calculater"
             description="calculater is made using Html , css and javascript"
-            images="portfolio\src\Images\calculater.jpg"
+            images="src/Images/calculater.jpg"
           />
         </div>
       </div>
