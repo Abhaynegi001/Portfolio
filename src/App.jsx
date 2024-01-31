@@ -30,7 +30,7 @@ function App() {
           <ProjectCard
             title="calculater"
             description="calculater is made using Html , css and javascript"
-            images="src/Images\calculater.jpg"
+            images="src/Images/calculater.jpg"
           />
           <ProjectCard
             title="calculater"
