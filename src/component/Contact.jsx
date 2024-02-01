@@ -37,7 +37,7 @@ function Contact() {
                       </ul>
                </div>
                   
-                  <span className='md:hidden' style={{fontSize:30 , cursor:"pointer" , color:"white" , marginRight:"1rem"}} onClick={openNav}>&#9776;</span>
+                  <span className='lg:hidden' style={{fontSize:30 , cursor:"pointer" , color:"white" , marginRight:"1rem"}} onClick={openNav}>&#9776;</span>
                   
             </div>
     </div>
